@@ -1,7 +1,7 @@
 
 Reference project:
 
-1. https://huggingface.co/spaces/openfree/DeepSeek-R1-32b-api
+## 1. https://huggingface.co/spaces/openfree/DeepSeek-R1-32b-api
 
 git clone https://huggingface.co/spaces/openfree/DeepSeek-R1-32b-api
 cd DeepSeek-R1-32b-api
@@ -12,5 +12,7 @@ source env/bin/activate
 pip install -r requirements.txt
 python app.py
 
+
+## 2. https://huggingface.co/spaces/VIDraft/EveryRAG
 
 
